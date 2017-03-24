@@ -25,4 +25,5 @@ function writeNumber(arrayLength){
 		
 	}
 
+return arrayOfNumbers;
 }
