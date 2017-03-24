@@ -1,6 +1,8 @@
 function writeNumber(arrayLength){
+	
 	var arrayOfNumbers = new Array();
-	for(i=1;i<=arrayLength;i++){
+
+	for(var i = 1;i<=arrayLength;i++){
 		var x = 3;
 		var y = 5;
 		var remainder3 = i%x;
